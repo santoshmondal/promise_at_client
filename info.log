@@ -1,0 +1,48 @@
+{"level":"info","message":"Server Started","timestamp":"2016-10-07T12:53:33.435Z"}
+{"level":"info","message":"Hello distributed log files!","timestamp":"2016-10-07T12:53:33.439Z"}
+{"level":"info","message":"Hello again distributed logs","timestamp":"2016-10-07T12:53:33.440Z"}
+{"level":"info","message":"hello","timestamp":"2016-10-07T12:53:49.701Z"}
+{"level":"error","message":"Error Log","timestamp":"2016-10-07T12:53:49.701Z"}
+{"abcd":"1","password":"1234","user":{"test":"afadf","password":"432111"},"level":"info","message":"","timestamp":"2016-10-07T12:54:08.619Z"}
+{"abcd":"1","password":"1234","user":{"test":"afadf","password":"432111"},"level":"info","message":"","timestamp":"2016-10-07T12:55:41.742Z"}
+{"level":"info","message":"hello","timestamp":"2016-10-07T12:56:15.328Z"}
+{"level":"error","message":"Error Log","timestamp":"2016-10-07T12:56:15.328Z"}
+2016-10-07T13:00:30.181Z - info: Server Started
+2016-10-07T13:00:30.184Z - info: Hello distributed log files!
+2016-10-07T13:00:30.184Z - info: Hello again distributed logs
+2016-10-07T13:00:33.745Z - info: hello
+2016-10-07T13:00:33.745Z - error: Error Log
+{"level":"info","message":"Server Started","timestamp":"2016-10-07T13:02:33.173Z"}
+{"level":"info","message":"Hello distributed log files!","timestamp":"2016-10-07T13:02:33.176Z"}
+{"level":"info","message":"Hello again distributed logs","timestamp":"2016-10-07T13:02:33.176Z"}
+{"level":"info","message":"hello","timestamp":"2016-10-07T13:02:36.366Z"}
+{"level":"error","message":"Error Log","timestamp":"2016-10-07T13:02:36.366Z"}
+{"level":"info","message":"hello","timestamp":"2016-10-07T13:03:29.114Z"}
+{"level":"error","message":"Error Log","timestamp":"2016-10-07T13:03:29.115Z"}
+{"level":"info","message":"Server Started","timestamp":"2016-10-20T05:46:20.230Z"}
+{"level":"info","message":"Hello distributed log files!","timestamp":"2016-10-20T05:46:20.233Z"}
+{"level":"info","message":"Hello again distributed logs","timestamp":"2016-10-20T05:46:20.233Z"}
+{"level":"info","message":"Server Started","timestamp":"2016-10-20T06:07:49.432Z"}
+{"level":"info","message":"Hello distributed log files!","timestamp":"2016-10-20T06:07:49.434Z"}
+{"level":"info","message":"Hello again distributed logs","timestamp":"2016-10-20T06:07:49.435Z"}
+{"level":"info","message":"Server Started","timestamp":"2016-10-20T06:08:40.531Z"}
+{"level":"info","message":"Hello distributed log files!","timestamp":"2016-10-20T06:08:40.534Z"}
+{"level":"info","message":"Hello again distributed logs","timestamp":"2016-10-20T06:08:40.534Z"}
+{"level":"info","message":"Server Started","timestamp":"2016-10-20T06:19:12.779Z"}
+{"level":"info","message":"Hello distributed log files!","timestamp":"2016-10-20T06:19:12.784Z"}
+{"level":"info","message":"Hello again distributed logs","timestamp":"2016-10-20T06:19:12.787Z"}
+{"level":"info","message":"Server Started","timestamp":"2016-10-20T06:19:14.778Z"}
+{"level":"info","message":"Hello distributed log files!","timestamp":"2016-10-20T06:19:14.780Z"}
+{"level":"info","message":"Hello again distributed logs","timestamp":"2016-10-20T06:19:14.781Z"}
+{"level":"info","message":"Server Started","timestamp":"2016-10-20T06:19:16.809Z"}
+{"level":"info","message":"Hello distributed log files!","timestamp":"2016-10-20T06:19:16.811Z"}
+{"level":"info","message":"Hello again distributed logs","timestamp":"2016-10-20T06:19:16.812Z"}
+{"level":"info","message":"Server Started","timestamp":"2016-10-27T09:21:48.196Z"}
+{"level":"info","message":"Hello distributed log files!","timestamp":"2016-10-27T09:21:48.200Z"}
+{"level":"info","message":"Hello again distributed logs","timestamp":"2016-10-27T09:21:48.201Z"}
+{"level":"info","message":"hello","timestamp":"2016-10-27T10:06:56.350Z"}
+{"level":"error","message":"Error Log","timestamp":"2016-10-27T10:06:56.351Z"}
+{"level":"info","message":"hello","timestamp":"2016-10-27T10:07:20.960Z"}
+{"level":"error","message":"Error Log","timestamp":"2016-10-27T10:07:20.961Z"}
+{"level":"info","message":"hello","timestamp":"2016-10-27T10:07:52.663Z"}
+{"level":"error","message":"Error Log","timestamp":"2016-10-27T10:07:52.665Z"}
