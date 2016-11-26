@@ -39,6 +39,14 @@ app.controller("first", ['$scope',  'SERVICE1', function($scope,   SERVICE1){
     }).catch(function(err){
         console.log(err);
     });
+
+
+    var p5 = SERVICE1.async5();
+    p5.then(function(res){
+        console.log(res);
+    }).catch(function(err){
+        console.log(err)
+    });
 }]);
 
 
@@ -79,4 +87,10 @@ app.service("SERVICE1", ['$q', '$http', function($q, $http){
         var url = "/test/1";
         return $http.get(url);
     }
+
+    this.async5 = function(){
+        //var url = "http://192.168.1.2:3003/test/1";
+        var url = "http://localhost:3003/test/1";
+        return $http.get(url);
+    };
 }]);
