@@ -7,7 +7,6 @@ var logger = require('./logger');
 
 router.get("/1", function(req, res){
     logger.info("hello");
-    logger.error("Error Log");
     res.json({"1":"1"});
 });
 
