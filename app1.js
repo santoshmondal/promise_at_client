@@ -22,8 +22,16 @@ app.get("/", function(req, res){
     s.length;
     console.log("test");
     throw new Error("Some Error Happend");
-    res.json({"name":"log"});
+    res.jsonp({"name":"log"});
 
+});
+
+app.get("/test", function(req, res){
+    res.jsonp({"1":"1"});
+});
+
+app.get("/test1", function(req, res){
+    res.jsonp({"1":"1"});
 });
 
 

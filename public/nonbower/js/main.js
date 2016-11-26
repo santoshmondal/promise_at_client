@@ -47,6 +47,13 @@ app.controller("first", ['$scope',  'SERVICE1', function($scope,   SERVICE1){
     }).catch(function(err){
         console.log(err)
     });
+
+    var p6 = SERVICE1.async6();
+    p6.then(function(res){
+        console.log(res);
+    }).catch(function(err){
+        console.log(err)
+    });
 }]);
 
 
@@ -92,5 +99,15 @@ app.service("SERVICE1", ['$q', '$http', function($q, $http){
         //var url = "http://192.168.1.2:3003/test/1";
         var url = "http://localhost:3003/test/1";
         return $http.get(url);
+    };
+
+    this.async6 = function(){
+        var url = "http://localhost:3004/test";
+        var params = {
+            'callback': 'JSON_CALLBACK'
+        };
+        var config = {"params":params};
+
+        return $http.jsonp(url, config);
     };
 }]);
