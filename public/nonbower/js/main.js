@@ -48,6 +48,8 @@ app.controller("first", ['$scope',  'SERVICE1', function($scope,   SERVICE1){
         console.log(err)
     });
 
+
+    // JSONP GET REQUEST
     var p6 = SERVICE1.async6();
     p6.then(function(res){
         console.log(res);

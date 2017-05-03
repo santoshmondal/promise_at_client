@@ -1,0 +1,7 @@
+
+.idea/inspectionProfiles/
+.idea/shelf/
+.idea/workspace.xml
+npm-debug.log
+public/.DS_Store
+node_modules/

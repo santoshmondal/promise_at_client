@@ -156,3 +156,48 @@
 {"level":"error","message":"Error Log","timestamp":"2016-11-26T16:05:05.331Z"}
 {"level":"info","message":"hello","timestamp":"2016-11-26T16:05:05.334Z"}
 {"level":"error","message":"Error Log","timestamp":"2016-11-26T16:05:05.334Z"}
+{"level":"info","message":"hello","timestamp":"2016-11-26T16:07:15.053Z"}
+{"level":"error","message":"Error Log","timestamp":"2016-11-26T16:07:15.054Z"}
+{"level":"info","message":"Server Started","timestamp":"2016-11-26T16:08:26.581Z"}
+{"level":"info","message":"Hello distributed log files!","timestamp":"2016-11-26T16:08:26.584Z"}
+{"level":"info","message":"Hello again distributed logs","timestamp":"2016-11-26T16:08:26.585Z"}
+{"level":"info","message":"Server Started","timestamp":"2016-11-26T16:08:32.118Z"}
+{"level":"info","message":"Hello distributed log files!","timestamp":"2016-11-26T16:08:32.124Z"}
+{"level":"info","message":"Hello again distributed logs","timestamp":"2016-11-26T16:08:32.125Z"}
+{"level":"info","message":"hello","timestamp":"2016-11-26T16:08:44.970Z"}
+{"level":"info","message":"hello","timestamp":"2016-11-26T16:08:44.978Z"}
+{"level":"info","message":"Server Started","timestamp":"2016-11-26T16:24:07.369Z"}
+{"level":"info","message":"Hello distributed log files!","timestamp":"2016-11-26T16:24:07.372Z"}
+{"level":"info","message":"Hello again distributed logs","timestamp":"2016-11-26T16:24:07.373Z"}
+{"level":"info","message":"Server Started","timestamp":"2016-11-26T16:26:01.910Z"}
+{"level":"info","message":"Hello distributed log files!","timestamp":"2016-11-26T16:26:01.913Z"}
+{"level":"info","message":"Hello again distributed logs","timestamp":"2016-11-26T16:26:01.914Z"}
+{"level":"info","message":"hello","timestamp":"2016-11-26T16:27:47.619Z"}
+{"level":"info","message":"hello","timestamp":"2016-11-26T16:27:47.667Z"}
+{"level":"info","message":"hello","timestamp":"2016-11-26T16:29:36.868Z"}
+{"level":"info","message":"hello","timestamp":"2016-11-26T16:29:36.873Z"}
+{"level":"info","message":"hello","timestamp":"2016-11-26T16:30:31.016Z"}
+{"level":"info","message":"hello","timestamp":"2016-11-26T16:30:31.019Z"}
+{"level":"info","message":"hello","timestamp":"2016-11-26T16:32:52.859Z"}
+{"level":"info","message":"hello","timestamp":"2016-11-26T16:32:52.863Z"}
+{"level":"info","message":"Server Started","timestamp":"2016-11-26T17:19:11.500Z"}
+{"level":"info","message":"Hello distributed log files!","timestamp":"2016-11-26T17:19:11.503Z"}
+{"level":"info","message":"Hello again distributed logs","timestamp":"2016-11-26T17:19:11.503Z"}
+{"level":"info","message":"hello","timestamp":"2016-11-26T17:19:14.605Z"}
+{"level":"info","message":"hello","timestamp":"2016-11-26T17:19:14.613Z"}
+{"level":"info","message":"hello","timestamp":"2016-11-26T17:19:27.557Z"}
+{"level":"info","message":"hello","timestamp":"2016-11-26T17:19:27.560Z"}
+{"level":"info","message":"hello","timestamp":"2016-11-26T17:25:31.532Z"}
+{"level":"info","message":"hello","timestamp":"2016-11-26T17:25:31.537Z"}
+{"level":"info","message":"hello","timestamp":"2016-11-26T17:25:58.751Z"}
+{"level":"info","message":"hello","timestamp":"2016-11-26T17:25:58.755Z"}
+{"level":"info","message":"hello","timestamp":"2016-11-26T17:33:35.777Z"}
+{"level":"info","message":"hello","timestamp":"2016-11-26T17:33:35.786Z"}
+{"level":"info","message":"hello","timestamp":"2016-11-26T17:34:12.442Z"}
+{"level":"info","message":"hello","timestamp":"2016-11-26T17:34:12.444Z"}
+{"level":"info","message":"hello","timestamp":"2016-11-26T17:34:47.435Z"}
+{"level":"info","message":"hello","timestamp":"2016-11-26T17:34:47.438Z"}
+{"level":"info","message":"hello","timestamp":"2016-11-26T17:35:25.929Z"}
+{"level":"info","message":"hello","timestamp":"2016-11-26T17:35:25.932Z"}
+{"level":"info","message":"hello","timestamp":"2016-11-26T17:39:12.191Z"}
+{"level":"info","message":"hello","timestamp":"2016-11-26T17:39:12.198Z"}
